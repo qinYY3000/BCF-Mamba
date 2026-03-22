@@ -1,6 +1,6 @@
-# BC-Mamba: Boundary-Aware Contextual CNNs-Mamba for Accurate Ultrasound Image Segmentation 🚀
+# BCF-Mamba: Boundary-Aware Contextual CNNs-Mamba for Ultrasound Image Segmentation 🚀
 
-Official repository for: *[BCF-Mamba: Boundary-Aware Contextual CNN–Mamba Fusion for Ultrasound Image Segmentation](https://github.com/qinYY3000/BCF-Mamba)*
+Official repository for: *[BCF-Mamba: Boundary-Aware Contextual CNN–Mamba for Ultrasound Image Segmentation](https://github.com/qinYY3000/BCF-Mamba)*
 
 
 The source code will be released to the public in the near future.
