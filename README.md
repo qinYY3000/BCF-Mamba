@@ -1,12 +1,6 @@
 # BCF-Mamba: Boundary-Aware Contextual CNNs-Mamba for Accurate Ultrasound Image Segmentation 🚀
 
-Official repository for: *[BC-Mamba: Boundary-Aware Contextual CNNs-Mamba for Accurate Ultrasound Image Segmentation](https://github.com/ScholarChen20/HCMNet)*
-
-![HCMNet.png](assets/HCMNet.png)
-
 The source code will be released to the public in the near future.
-
-If you have any questions, please contact: chen_wenqin2002@163.com
 
 ### Ultrasound dataset:
 (1)[BUSI:](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset) W. Al-Dhabyani., Dataset of breast ultrasound images, Data Br. 28 (2020) 104863.  
